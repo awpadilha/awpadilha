@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awpadilha
+- 👋 Hi, I’m André Padilha
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning web development in Certified Tech Developer by Digital House
 - 💞️ I’m looking to collaborate on web development projects
