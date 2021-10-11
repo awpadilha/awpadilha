@@ -2,7 +2,7 @@
 
 - 🌱 Bolsista na carreira Certified Tech Developer da Digital House
 - 👀 Estou estudando HTML, CSS, Javascript e MySQL 
-- 💞️ I’m looking to collaborate on web development projects
+- 📫 Email: awpadilha.dev@gmail.com
 
 <!---
 awpadilha/awpadilha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
