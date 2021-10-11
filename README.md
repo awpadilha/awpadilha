@@ -1,7 +1,7 @@
 - ## Olá, me chamo André Padilha
 
 - 🌱 Bolsista na carreira Certified Tech Developer da Digital House
-- 👀 Estou estudando HTML, CSS, Javascript e MySQL 
+- 🔭 Estou estudando HTML, CSS, Javascript e MySQL 
 - 📫 Email: awpadilha.dev@gmail.com
 
 <!---
