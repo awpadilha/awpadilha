@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   <a href="https://github.com/awpadilha">
-  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=awpadilha&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true"/>
-  <img height="163em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awpadilha&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=awpadilha&show_icons=true&title_color=fff&icon_color=37aaff&text_color=f8f8f2&bg_color=171c24&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awpadilha&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24"/>
 </div>
   
 <div style="display: inline_block"><br>
