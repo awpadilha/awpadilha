@@ -1,6 +1,6 @@
 ## Hi, i'm André Padilha
 
-Certified Tech Developer Student | Digital House
+Certified Tech Developer Student by Digital House
 
 Studying the career of Full-Stack Developer
 
