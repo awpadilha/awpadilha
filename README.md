@@ -2,7 +2,7 @@
 
 Certified Tech Developer Student by Digital House
 
-Pursuing a full-stack developer career with a focus on front-end and testing
+Following a full-stack developer career with a focus on front-end and testing
 
 Thanks for reading!
 
