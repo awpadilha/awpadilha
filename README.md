@@ -1,8 +1,10 @@
-## Hi, i'm André Padilha
+## Hi, I'm André Padilha
 
-Certified Tech Developer Student by Digital House
+I'm an electrical engineer specializing in medical devices.
 
-Following a full-stack developer career with a focus on front-end and testing
+Currently a Certified Tech Developer Student by Digital House.
+
+Studying a full-stack developer career and in the future I want to dedicate myself to frontend and testing.
 
 Thanks for reading!
 
