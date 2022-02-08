@@ -1,6 +1,6 @@
 ## Hi, I'm André Padilha
 
-I'm an electrical engineer specializing in medical devices.
+I'm an electrical engineer specialized in medical devices.
 
 Currently a Certified Tech Developer Student by Digital House.
 
