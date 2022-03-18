@@ -2,9 +2,9 @@
 
 I'm an electrical engineer specialized in medical devices.
 
-Currently a Certified Tech Developer Student by Digital House.
+Currently a Certified Tech Developer Student by Digital House. 
 
-Studying a full-stack developer career and in the future I want to dedicate myself to frontend and testing.
+Studying a full-stack developer career aiming to frontend specialization.
 
 Thanks for reading!
 
