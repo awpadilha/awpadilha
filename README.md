@@ -10,7 +10,7 @@ Studying a full-stack developer career aiming to frontend specialization.
 Thanks for reading!
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/89110306/159133345-d526b710-59f9-404e-b495-b8f8da9ca62f.png" width=180px" />
+<img src="https://user-images.githubusercontent.com/89110306/159133345-d526b710-59f9-404e-b495-b8f8da9ca62f.png" width=170px" />
 </div>
 
 <div align="center">
