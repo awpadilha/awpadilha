@@ -9,18 +9,10 @@ Studying a full-stack developer career aiming to frontend specialization.
 
 Thanks for reading!
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/89110306/159133345-d526b710-59f9-404e-b495-b8f8da9ca62f.png" width=170px" />
-</div>
-
-<div align="center">
+<div align="left">
 <a href="https://www.linkedin.com/in/awpadilha/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
                                                                                                                          
-<a href="https://www.instagram.com/awpadilha/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E84F00?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-</a>
- 
 ##
 
 <div align="center">
