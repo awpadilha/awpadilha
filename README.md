@@ -3,7 +3,7 @@
 
 I'm an electrical engineer specialized in medical devices.
 
-Certified Tech Developer Student by Digital House. 
+Certified Tech Developer by Digital House. 
 
 Studying a full-stack developer career aiming to frontend specialization.
 
