@@ -5,8 +5,6 @@ I'm an electrical engineer specialized in medical devices.
 
 Certified Tech Developer by Digital House. 
 
-Studying a full-stack developer career aiming to frontend specialization.
-
 Thanks for reading!
 
 <div align="left">
