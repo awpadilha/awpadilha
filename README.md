@@ -1,9 +1,9 @@
 ## Hi, I'm André Padilha
 
 
-I'm an electrical engineer specialized in medical devices.
+I'm an electrical engineer specializing in medical devices in career migration to IT and a Certified Tech Developer by Digital House Brasil.
 
-Certified Tech Developer by Digital House. 
+My main efforts are to learn more about web development, testing software and infrastructure.
 
 Thanks for reading!
 
