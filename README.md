@@ -1,11 +1,8 @@
 ## Hi, I'm André Padilha
 
+Certified Tech Developer by Digital House Brasil.
 
-I'm an electrical engineer specializing in medical devices and IT career migration. 
-
-I graduated in full-stack development from the Certified Tech Developer by Digital House Brasil.
-
-My main efforts are learning more about web development, software testing and infrastructure.
+Learning about web development, software testing and infrastructure.
 
 Thanks for reading!
 
